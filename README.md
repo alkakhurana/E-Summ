@@ -26,6 +26,6 @@ collection-independent and is agnostic to the language of the document. Moreover
 3. In all the .py files, change the current directory to working directory of your system.
 4. Run Preprocessing.py for pre-processing the input documents.
 5. Run Find_Topics.py to find the number of latent topics in the document.
-6. Run E-Summ.py  for generating the summary E-Summ summary of the document.
+6. Run ESumm_DUC.py  for generating the summary E-Summ summary of the any DUC data-set document.
 
 
